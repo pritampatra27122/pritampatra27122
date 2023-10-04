@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritampatra27122&label=Profile%20views&color=308cc5&style=flat-square" alt="pritampatra27122" /> </p>
 <h3 align="center">🚀 About Me</h3>
 
-- 🔭 I’m currently working on **Task Management Application**
+- 🔭 I’m currently working on **AI powered Desktop Assistant**
 
 - 🌱 I’m currently learning **Android Development using Kotlin**
 
